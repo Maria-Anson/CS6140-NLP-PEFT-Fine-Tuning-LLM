@@ -1,12 +1,6 @@
 # LoRA LLM Instruction Finetuning for ASAG
 This is the working repository for my CS6120 Natural Language Processing Project.
 
-### Team
-- Gugan S Kathiresan - 002756523
-- Aditya Shanmugham - 002738073
-- Prabhleenkaur Bindra - 002781738
-- Maria Anson - 002931419
-
 ### Summary 
 The goal of this project is to implement an ASAG (Automated Short Answer Grading) architecture that aims to be used for grading short computer science and coding assignments harnessing the knowledge within a finetuned LLMs, and be open for user interaction.
 
